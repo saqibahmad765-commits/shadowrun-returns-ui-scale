@@ -1,4 +1,9 @@
 # UI Scale for Shadowrun Returns
+## Download the mod — no compiling required
+
+Open the [Releases page](https://github.com/saqibahmad765-commits/shadowrun-returns-ui-scale/releases) and download **UIScale-1.1.0.zip** from the release's **Assets** section. The automatic **Source code** downloads are for developers, not installation. If no public release is listed yet, the player download is still being prepared.
+
+Close the game, then extract the ZIP into the game folder. BepInEx 5.4.23.2 x86 is required; see below.
 
 Configurable UI and text scaling using BepInEx. Version 1.1.0.
 
