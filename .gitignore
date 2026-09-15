@@ -1,0 +1,16 @@
+# Generated output and local dependencies
+artifacts/
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.dll
+*.exe
+*.pdb
+*.zip
+*.7z
+*.log
+*.cfg
+local/
+Dependencies/
